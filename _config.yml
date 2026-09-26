@@ -1,6 +1,3 @@
-# Rob's Github Test Page
-#000000
-**Does this work?**
-_How about this?_
-This could be cool.
-> This is --not-- a quote!
+theme: jekyll-theme-minimal
+title: Rob's Github test page
+description: Bookmark this to keep an eye on my exploring!
